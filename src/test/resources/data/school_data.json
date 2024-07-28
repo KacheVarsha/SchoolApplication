@@ -1,0 +1,172 @@
+[
+  {
+    "schoolId": 1,
+    "name": "DNHS school",
+    "address": "Pune",
+    "students": [
+      {
+        "studentId": "1",
+        "name": "Gauri",
+        "age": 2
+      },
+      {
+        "studentId": "2",
+        "name": "Devansh",
+        "age": 6
+      }
+    ]
+  },
+  {
+    "schoolId": 2,
+    "name": "ABC International School",
+    "address": "Mumbai",
+    "students": [
+      {
+        "studentId": "3",
+        "name": "Aarav",
+        "age": 5
+      },
+      {
+        "studentId": "4",
+        "name": "Anaya",
+        "age": 7
+      }
+    ]
+  },
+  {
+    "schoolId": 3,
+    "name": "Greenfield School",
+    "address": "Bangalore",
+    "students": [
+      {
+        "studentId": "5",
+        "name": "Rahul",
+        "age": 10
+      },
+      {
+        "studentId": "6",
+        "name": "Priya",
+        "age": 8
+      }
+    ]
+  },
+  {
+    "schoolId": 4,
+    "name": "Sunrise Public School",
+    "address": "Delhi",
+    "students": [
+      {
+        "studentId": "7",
+        "name": "Sonia",
+        "age": 9
+      },
+      {
+        "studentId": "8",
+        "name": "Amit",
+        "age": 7
+      }
+    ]
+  },
+  {
+    "schoolId": 5,
+    "name": "Harmony High",
+    "address": "Chennai",
+    "students": [
+      {
+        "studentId": "9",
+        "name": "Vikram",
+        "age": 12
+      },
+      {
+        "studentId": "10",
+        "name": "Neha",
+        "age": 11
+      }
+    ]
+  },
+  {
+    "schoolId": 6,
+    "name": "Blue Ridge School",
+    "address": "Kolkata",
+    "students": [
+      {
+        "studentId": "11",
+        "name": "Ravi",
+        "age": 13
+      },
+      {
+        "studentId": "12",
+        "name": "Aisha",
+        "age": 14
+      }
+    ]
+  },
+  {
+    "schoolId": 7,
+    "name": "Silver Oak School",
+    "address": "Hyderabad",
+    "students": [
+      {
+        "studentId": "13",
+        "name": "Kiran",
+        "age": 15
+      },
+      {
+        "studentId": "14",
+        "name": "Meera",
+        "age": 16
+      }
+    ]
+  },
+  {
+    "schoolId": 8,
+    "name": "Bright Future School",
+    "address": "Ahmedabad",
+    "students": [
+      {
+        "studentId": "15",
+        "name": "Arjun",
+        "age": 9
+      },
+      {
+        "studentId": "16",
+        "name": "Tara",
+        "age": 8
+      }
+    ]
+  },
+  {
+    "schoolId": 9,
+    "name": "Golden Gate School",
+    "address": "Jaipur",
+    "students": [
+      {
+        "studentId": "17",
+        "name": "Nikhil",
+        "age": 10
+      },
+      {
+        "studentId": "18",
+        "name": "Sana",
+        "age": 11
+      }
+    ]
+  },
+  {
+    "schoolId": 10,
+    "name": "Lotus Valley School",
+    "address": "Lucknow",
+    "students": [
+      {
+        "studentId": "19",
+        "name": "Rohit",
+        "age": 12
+      },
+      {
+        "studentId": "20",
+        "name": "Sneha",
+        "age": 13
+      }
+    ]
+  }
+]
